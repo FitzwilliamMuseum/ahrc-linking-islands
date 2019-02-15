@@ -4,6 +4,7 @@ institution: Brown University
 job-title: Director of the Center for Digital Scholarship
 twitter:
 image: '/images/staff/Mylonas.jpg'
+layout: default
 ---
 
 Elli Mylonas is Director of the Center for Digital Scholarship. She came to Brown

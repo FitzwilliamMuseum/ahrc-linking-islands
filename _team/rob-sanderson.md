@@ -4,6 +4,7 @@ institution: The J. Paul Getty Trust
 image: '/images/staff/robSanderson.png'
 job-title: Semantic Architect
 twitter: '@azaroth'
+layout: default
 ---
 Dr. Robert Sanderson is the Semantic Architect for the J Paul Getty Trust, with
 responsibility for the design and direction of cultural heritage data information

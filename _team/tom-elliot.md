@@ -3,6 +3,7 @@ title: Tom Elliot
 institution: The Institute for the Study of the Ancient World
 title: Associate Director for Digital Programs and Senior Research Scholar
 image: '/images/staff/elliot.jpeg'
+layout: default
 ---
 Tom Elliott graduated from Duke University in 1989 with B.S. in Computer Science and a second major in Classical Studies. Following service as a Communications and Computer Systems Officer in the United States Air Force, he worked as a software developer and program manager for AEgis Research Corporation (now AEgis Technologies) on a number of visual and engineering simulation projects. He received his Ph.D. in Ancient History from the University of North Carolina, Chapel Hill in 2004, for research focused on the intersection of Roman documentary, administrative and geographic studies. His doctoral dissertation was entitled Epigraphic Evidence for Boundary Disputes in the Early Roman Empire (see also github:demarc).
 

@@ -3,6 +3,7 @@ title: Graham Oliver
 institution: Brown University
 image: '/images/staff/goliver.jpg'
 job-title: 'Professor of Classics'
+layout: default
 ---
 Graham Oliver undertook both his undergraduate studies in Classics (BA Literae
 Humaniores, 1989) and his doctoral studies (D. Phil Ancient History, 1995) at
