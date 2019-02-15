@@ -1,6 +1,6 @@
 ---
 title: Open Context
-twitter: ''
-image: ''
+twitter: '@opencontext'
+image: '/images/partners/opencontext.png'
 layout: default
 ---

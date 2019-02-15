@@ -12,12 +12,8 @@ layout: default
               <div class="card-body">
               <img class="align-self-center mr-3  float-right thumb-post" src="{{ site.baseurl}}{{author.image}}"
                              alt="{{page.title}}'s profile image" height="150" width="150">
-
-
                 <p class="card-text">{{ author.content | strip_html | truncatewords: 50}}</p>
-
-
-                <a href="{{ author.url }}" class="btn btn-dark">Read more about {{author.title}}</a>
+                <a href="{{ author.url }}" class="btn btn-dark btn-block">Read more about {{author.title}}</a>
               </div>
           </div>
     </div>
