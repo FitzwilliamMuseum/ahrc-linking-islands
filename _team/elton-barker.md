@@ -2,7 +2,7 @@
 title: Elton Barker
 institution: Open University
 job-title: Co-Investigator
-image: "/images/staff/eltonBarker.jpg"
+image: "/images/staff/eltonBarker.jpeg"
 twitter: "@eltoneb"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Graham Oliver
 institution: Brown University
-images: '/images/staff/goliver.jpg'
+image: '/images/staff/goliver.jpg'
 job-title: 'Professor of Classics'
 ---
 Graham Oliver undertook both his undergraduate studies in Classics (BA Literae
