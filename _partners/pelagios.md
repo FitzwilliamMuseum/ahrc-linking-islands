@@ -2,7 +2,8 @@
 title: Pelagios
 twitter: '@pelagiosproject'
 image: '/images/partners/pelagios.jpg'
-layout: default
+layout: team
+institution: Global partner
 ---
 What is Pelagios Commons?
 Pelagios Commons is a community & infrastructure for Linked Open Geodata in the Humanities.

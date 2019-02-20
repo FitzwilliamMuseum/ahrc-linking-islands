@@ -1,8 +1,9 @@
 ---
 title: Brown University
-twitter: ''
+institution: 'USA Partner'
+twitter: '@brownuniversity'
 image: '/images/partners/Brown-University-logo.jpg'
-layout: default
+layout: team
 ---
 Located in historic Providence, Rhode Island and founded in 1764, Brown University is the seventh-oldest college in the United States. Brown is an independent, coeducational Ivy League institution comprising undergraduate and graduate programs, plus the Alpert Medical School, School of Public Health, School of Engineering, and the School of Professional Studies.
 

@@ -4,7 +4,8 @@ institution: American Numismatics Society
 twitter: '@ewg118'
 job-title: Director of Data Science
 image: '/images/staff/ethan.jpeg'
-layout: default
+layout: team
+orcid: 0000-0002-4691-9747
 ---
 Ethan is the Director of Data Science at the ANS. With more than ten years of
 experience in digital humanities and cultural heritage web development projects,

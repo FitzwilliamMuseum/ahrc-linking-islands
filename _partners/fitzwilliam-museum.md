@@ -2,7 +2,8 @@
 title: Fitzwilliam Museum
 twitter: '@FitzMuseum_UK'
 image: /images/logos/rainbow.png
-layout: default
+layout: team
+institution: UK Lead partner
 ---
 
 Today Fitzwilliam cares for a vast and varied collection of objects ranging from Ancient Egyptian, Greek and Roman antiquities to the arts of the present day.  It has one of the finest collections of paintings, drawings and prints in Britain, and significant collections of Asian art, medieval illuminated manuscripts, and outstanding collections of applied arts, pottery, porcelain and medieval coins.

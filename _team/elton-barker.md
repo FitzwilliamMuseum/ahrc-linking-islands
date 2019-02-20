@@ -3,8 +3,9 @@ title: Elton Barker
 institution: Open University
 job-title: Co-Investigator
 image: "/images/staff/eltonBarker.jpeg"
-twitter: "@eltoneb"
-layout: default
+twitter: "@eltonteb"
+layout: team
+orcid: 0000-0001-9517-1176
 ---
 
 I'm a Reader in Classical Studies, having joined The Open University as a Lecturer in July 2009. Before then, I had been a Tutor and Lecturer at Christ Church, Oxford (2004-9), and also lectured at Bristol, Nottingham and Reading.

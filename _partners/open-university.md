@@ -1,8 +1,8 @@
 ---
 title: Open University
-twitter: ''
+twitter: '@openuniversity'
 image: /images/partners/ou.png
-layout: default
+layout: team
 ---
 The Open University, celebrating its 50th birthday throughout 2019, was established
 by Royal Charter on 23 April 1969.  We are the leading university for flexible,

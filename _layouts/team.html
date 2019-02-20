@@ -37,27 +37,27 @@
         </div>
     </div>
 
-      {% if page.url == "/" %}
-        <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
-            {{ content }}
-        </div>
-      {% elsif page.url == '/projects/' %}
-      <div class="">
-          {{ content }}
+
+      <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+          <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{page.image}}"
+                         alt="{{page.title}}'s profile image" height="150" width="150">
+                                {% if page.job-title %}
+                                <h3 class="text-muted">{{ page.job-title}} </h3>
+                                {% endif %}
+
+            <p class="card-text">{{ page.content }}</p>
+
+            <p>
+              <span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution }}</span>
+              {% if page.twitter %}
+              <span class="chip shareTwitter"><i class="chip-icon"><i class="fab fa-twitter"></i></i><a href="https://twitter.com/{{ page.twitter | replace: "@", "" }}" >{{ page.twitter }}</a></span>
+              {% endif %}
+              {% if page.orcid %}
+              <span class="chip shareTwitter"><i class="chip-icon"><i class="fa fa-book"></i></i><a href="https://orcid.org/{{ page.orcid }}" >ORCID: {{ page.orcid }}</a></span>
+              {% endif %}
+            </p>
       </div>
-      {% elsif page.url == '/partners/' %}
-      <div class="">
-          {{ content }}
-      </div>
-      {% elsif page.url == '/team/' %}
-      <div class="">
-          {{ content }}
-      </div>
-      {% else %}
-      <div class="shadow-sm p-3 mx-auto mb-3 bg-white rounded">
-          {{ content }}
-      </div>
-      {% endif %}
+
 
 </div>
 

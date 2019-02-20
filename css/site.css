@@ -5,6 +5,7 @@
     background-size: cover;
     padding-top: 8rem;
     }
+
 footer, .chip-icon {
     background-color: #731200;
 }
@@ -21,9 +22,11 @@ video {
 
     object-fit: cover;
 }
+
 .share a {
     color: #fff;
 }
+
 .cd-nugget-info {
   text-align: center;
   position: absolute;
@@ -35,6 +38,7 @@ video {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 .cd-nugget-info a {
   position: relative;
   font-size: 14px;
@@ -43,13 +47,16 @@ video {
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
+
 .cd-nugget-info a:hover {
   opacity: .8;
 }
+
 .cd-nugget-info span {
   vertical-align: middle;
   display: inline-block;
 }
+
 .cd-nugget-info span svg {
   display: block;
 }
@@ -160,11 +167,6 @@ video {
     width: 100%;
 }
 
-.coffin  {
-    height: 150px;
-    width: 150px;
-}
-
 .contact .btn {
     background-color: #731200;
     color: #fff;
@@ -173,7 +175,14 @@ video {
 label.cm-app-label {
     color: white;
 }
-.btn{
+.btn {
     white-space:normal !important;
     word-wrap: break-word;
+}
+.navbar nav {
+  display: inline;
+}
+
+.shareTwitter a {
+    color: #000;
 }

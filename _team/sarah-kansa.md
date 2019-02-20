@@ -4,7 +4,8 @@ twitter: '@opencontext'
 image: '/images/staff/sarah-kansa.jpg'
 job-title: Director of the Alexandria Archive Institute
 institution: Open Context
-layout: default
+layout: team
+orcid: 0000-0001-7920-5321
 ---
 
 I am Director of the Alexandria Archive Institute, the non-profit organization

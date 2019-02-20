@@ -4,7 +4,8 @@ institution: Open Context
 job-title: 'Program Director for Open Context'
 image: '/images/staff/eric-kansa.jpg'
 twitter: '@ekansa'
-layout: default
+layout: team
+orcid: 0000-0001-5620-4764
 ---
 I'm the Program Director for Open Context. I have a Ph.D. in Anthropology, and archeological field experience in the Near East, Egypt, Italy and North America. My research interests explore research data informatics, research data policy, ethics, and professional context of the digital humanities.
 

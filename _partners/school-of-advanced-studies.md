@@ -2,7 +2,8 @@
 title: School of Advanced Studies
 twitter: '@sasnews'
 image: '/images/partners/sas.jpg'
-layout: default
+layout: team
+institution: UK Partner
 ---
 
 The School of Advanced Study at the University of London brings together nine

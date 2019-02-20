@@ -2,7 +2,8 @@
 title: Open Context
 twitter: '@opencontext'
 image: '/images/partners/opencontext.png'
-layout: default
+layout: team
+institution: USA Partner
 ---
 Open Context is a free, open access resource for the Web publication of primary
 field research from archaeology and related disciplines. It made its debut in
