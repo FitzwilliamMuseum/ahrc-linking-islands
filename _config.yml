@@ -36,7 +36,7 @@ twitter_username: fitzwilliam_uk
 
 github_username:  fitzwilliammuseum
 
-logo: ""
+logo: "https://data-islands.fitzmuseum.cam.ac.uk/images/logos/rainbow.png"
 
 google_analytics: UA-3319190-1
 
@@ -63,7 +63,7 @@ collections:
       output: true
    partners:
       output: true
-   
+
 mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
 
 feed:
