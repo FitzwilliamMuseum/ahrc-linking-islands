@@ -6,6 +6,9 @@
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
     <title>{{page.title}}</title>
     {% include /structure/css.html %}
+    {% if page.map %}
+    {% include /structure/mapscss.html %}
+    {% endif %}
     {% seo %}
     {% include /structure/feeds.html %}
 </head>
@@ -36,6 +39,10 @@
             <h1 id="doc-main-h1">{{ page.title }}</h1>
         </div>
     </div>
+
+      {% if page.map %}
+      <div id="map" style="width: 100%; height: 300px;"></div>
+      {% endif %}
 
       {% if page.url == "/" %}
         <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
@@ -103,6 +110,36 @@
 {% include structure/footer_logos.html %}
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
+{% if page.map %}
+{% include structure/maps.html %}
+<script type="text/javascript">
+
+var dareLayer = L.tileLayer('http://pelagios.dme.ait.ac.at/tilesets/imperium//{z}/{x}/{y}.png', {
+              attribution: 'Tiles: <a href="http://imperium.ahlfeldt.se/">DARE 2014</a>'
+            }),
+
+            awmcLayer = L.tileLayer('http://a.tiles.mapbox.com/v3/isawnyu.map-knmctlkh/{z}/{x}/{y}.png', {
+              attribution: 'Tiles &copy; <a href="http://mapbox.com/" target="_blank">MapBox</a> | ' +
+                'Data &copy; <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors, CC-BY-SA | '+
+                'Tiles and Data &copy; 2013 <a href="http://www.awmc.unc.edu" target="_blank">AWMC</a> ' +
+                '<a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank">CC-BY-NC 3.0</a>'
+            });
+
+        var map = new L.Map('map', {
+          center: new L.LatLng(37.98, 23.72),
+          zoom: 5,
+          layers: [awmcLayer],
+          minZoom: 5,
+          maxZoom: 11
+        });
+
+  // load GeoJSON from an external file
+  $.getJSON("{{ page.map }}",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
+</script>
+{% endif %}
 {% include analytics/google_analytics.html %}
 
 

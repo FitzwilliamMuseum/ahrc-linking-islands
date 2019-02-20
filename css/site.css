@@ -186,3 +186,6 @@ label.cm-app-label {
 .shareTwitter a {
     color: #000;
 }
+.navbar {
+  z-index: 2147483647;
+}
