@@ -5,6 +5,7 @@ image: '/images/staff/valeria.jpg'
 job-title: 'Pelagios Education Director; Institute of Classical Studies Research Fellow'
 layout: team
 twitter: "@nottinauta"
+orcid: 0000-0002-9695-0240
 ---
 
 Valeria Vitale joined the ICS in January 2017 as a Research Fellow on the A. W. Mellon funded project Pelagios Commons, for which she worked as Community Manager and part of the investigative team. After her degree in Communication Science awarded by La Sapienza University in Rome, she worked for several years on the study and promotion of tangible and intangible cultural heritage, with major Italian cultural institutions. In 2012 she graduated with an MA  in Digital Humanities at King’s College London, where she also completed her PhD on the use of Linked Open Data to document 3D visualisations of ancient cultural heritage. Her case study was the Temple of Isis in Pompeii, its variant restoration hypotheses and multiple cultural interpretations. Her doctoral research involved the development of a documentation standard for scholarly 3D visualisation called SCO3CH.
