@@ -56,6 +56,16 @@
       {% else %}
       <div class="shadow-sm p-3 mx-auto mb-3 bg-white rounded">
           {{ content }}
+          <p>
+              {% if page.date %}
+              <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+              {% endif %}
+              <span class="chip"><i class="chip-icon"><i
+                      class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+              {% for tags in page.tags %}
+              <span class="chip"><i class="chip-icon"><i class="material-icons small">label</i></i>{{ tags }}</span>
+              {% endfor %}
+          </p>
       </div>
       {% endif %}
 
