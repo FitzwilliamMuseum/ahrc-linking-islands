@@ -182,6 +182,9 @@ label.cm-app-label {
 .navbar nav {
   display: inline;
 }
+.shortenWords {
+  max-width: 200px;
+}
 
 .shareTwitter a {
     color: #000;
