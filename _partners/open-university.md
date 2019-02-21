@@ -3,6 +3,8 @@ title: Open University
 twitter: '@openuniversity'
 image: /images/partners/ou.png
 layout: team
+website: http://www.open.ac.uk/
+institution: UK Lead Partner
 ---
 The Open University, celebrating its 50th birthday throughout 2019, was established
 by Royal Charter on 23 April 1969.  We are the leading university for flexible,

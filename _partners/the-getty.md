@@ -4,6 +4,7 @@ twitter: '@gettymuseum'
 image: '/images/partners/getty.png'
 layout: team
 institution: USA Partner
+website: http://www.getty.edu
 ---
 The J. Paul Getty Trust is a cultural and philanthropic institution dedicated to
 the presentation, conservation, and interpretation of the world’s artistic legacy.

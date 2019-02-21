@@ -4,6 +4,7 @@ twitter: '@isawnyu'
 image: '/images/partners/isaw.jpg'
 layout: team
 institution: USA Partner
+website: https://isaw.nyu.edu
 ---
 The creation of the Institute for the Study of the Ancient World at New York University has its roots in the passion that Shelby White and Leon Levy had for the art and history of the ancient world, which led them to envision an Institute that would offer an unshuttered view of antiquity across vast stretches of time and place.
 

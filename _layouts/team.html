@@ -55,6 +55,9 @@
               {% if page.orcid %}
               <span class="chip shareTwitter"><i class="chip-icon"><i class="fa fa-book"></i></i><a href="https://orcid.org/{{ page.orcid }}" >ORCID: {{ page.orcid }}</a></span>
               {% endif %}
+              {% if page.website %}
+              <span class="chip shareTwitter"><i class="chip-icon"><i class="fas fa-globe"></i></i><a href="{{ page.website }}" >{{ page.website }}</a></span>
+              {% endif %}
             </p>
       </div>
 
