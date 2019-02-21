@@ -1,7 +1,7 @@
 ---
 title: Tom Elliot
 institution: The Institute for the Study of the Ancient World
-title: Associate Director for Digital Programs and Senior Research Scholar
+job-title: Associate Director for Digital Programs and Senior Research Scholar
 image: '/images/staff/elliot.jpeg'
 layout: team
 twitter: "@paregorios"
