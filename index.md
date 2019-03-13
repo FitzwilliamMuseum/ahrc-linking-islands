@@ -13,7 +13,7 @@ map: /geojson/recogito-odyssey.json
 This network will focus on classics, archaeology, epigraphy and museology and create a variety of digital and analogue outputs - including an application programming interface (API), documentation and guidance for best practice in the use of Linked Open Data and high resolution document handling - using established and emergent technological methods and communities of practice based around 3 workshops held at the Fitzwilliam Museum, Brown University and Open Context.
 
 These research project web pages will document our progress, host examples of what
-we generate and provide an archive of activity.
+we generate and provide an archive of activity whilst ultimately leading towards the Fitzwilliam's [Being an Islander: Art and Identity of the large Mediterranean Islands](https://www.fitzmuseum.cam.ac.uk/being-islander-art-and-identity-large-mediterranean-islands) exhibition in 2021.
 
 This project which is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) and can be found under grant number AH/S012478/1.
 
