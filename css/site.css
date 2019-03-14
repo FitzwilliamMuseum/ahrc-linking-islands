@@ -194,3 +194,11 @@ label.cm-app-label {
 .navbar {
   z-index: 2147483647;
 }
+
+.row-hack {
+    -ms-flex-wrap: wrap;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+
+}
