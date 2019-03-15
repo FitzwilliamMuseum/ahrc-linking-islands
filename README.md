@@ -1,6 +1,6 @@
 # Linking islands of data  - Fitzwilliam Museum
 
-![A screenshot of the site](images/screenshots/screen.png)
+![A screenshot of the site](images/screenshots/screenshot.png)
 
 This repository will hold code for the AHRC UK/USA network grant led by the
 Fitzwilliam Museum and the Open University.
