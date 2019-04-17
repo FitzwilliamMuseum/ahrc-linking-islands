@@ -1,5 +1,5 @@
 ---
-title: Clearchus's Journey from Soloi to Ai Khanum: A Peripatetic Tale of Old Cyprus
+title: "Clearchus's Journey from Soloi to Ai Khanum: A Peripatetic Tale of Old Cyprus"
 layout: default
 permalink: news/clearchus-lecture-2019
 author: Anastasia Christophilopoulou
@@ -26,4 +26,4 @@ Free admission
 
 RSVP by 20 May 2019 to: [ac380@cam.ac.uk](mailto:ac380@cam.ac.uk)
 
-![Poster for the Clearchus lecture](images/screenshots/clearchus.jpg)
+![Poster for the Clearchus lecture](/images/screenshots/clearchus.jpg)
