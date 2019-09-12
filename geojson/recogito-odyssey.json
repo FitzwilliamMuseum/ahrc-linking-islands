@@ -43,12 +43,12 @@
       "coordinates" : [ 23.06593, 38.93759 ]
     },
     "properties" : {
-      "titles" : "Histiaia/Hestiaia",
+      "titles" : "Histiaia/FitzIntranetia",
       "annotations" : 1
     },
     "uris" : [ "http://pleiades.stoa.org/places/540817" ],
-    "titles" : [ "Histiaia/Hestiaia" ],
-    "names" : [ "Histiaia", "Hestiaia" ],
+    "titles" : [ "Histiaia/FitzIntranetia" ],
+    "names" : [ "Histiaia", "FitzIntranetia" ],
     "place_types" : [ "settlement" ],
     "source_gazetteers" : [ "http://pleiades.stoa.org" ],
     "quotes" : [ "Ἱστίαιαν" ],
