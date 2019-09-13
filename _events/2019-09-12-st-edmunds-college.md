@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Linking Islands of Data - A day conference"
+title: "Linking Islands of Data - A one day conference"
 author: Daniel Pett
 date: 2019-09-12
 permalink: /events/uk-conference
