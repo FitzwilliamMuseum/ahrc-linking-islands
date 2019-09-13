@@ -15,3 +15,7 @@ The event will see papers from the partner organisations (Open University, the I
 Conveners of this event are Daniel Pett, Dr Anastasia Christophilopoulou, and Dr Elton Barker (Open University) and the project is generously funded by the Arts and Humanities Research Council (AHRC) and can be found under grant number AH/S012478/1.
 
 £10 per person, lunch and coffee included.
+
+Programme to be announced shortly. 
+
+Tickets can be booked via the [University of Cambridge](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/linking-islands-of-data/linking-islands-of-data).
