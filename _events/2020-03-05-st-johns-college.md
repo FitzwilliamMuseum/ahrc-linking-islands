@@ -34,3 +34,17 @@ The case of Museum in a Box and 3D work.
 the Getty Museum (e.g. the new digital CVA volume, the Antiquities Provenance
 Project and the Ancient Worlds Now initiative) TBC
 5. What resources are needed? The case of the The Cyprus Gazetteer TBC
+
+### To book a place
+
+Details forthcoming
+
+### Who is coming?
+
+1. Daniel Pett (Project PI)
+2. Elton Barker (Project Co-I)
+3. Anastasia Christophilopoulou (Project curator)
+4. Valeria Vitale
+5. Jennifer Wexler
+6. Hannah Platts
+7. Amara Thornton
