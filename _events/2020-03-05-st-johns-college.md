@@ -48,3 +48,6 @@ Details forthcoming
 5. Jennifer Wexler
 6. Hannah Platts
 7. Amara Thornton
+8. Ava Clark (Palestine Exploration Fund)
+9. Eric Poehler (UMASS)
+10. Megan Perry (ECU)
