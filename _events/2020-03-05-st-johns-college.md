@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Linking Islands of Data second workshop or Symposium"
+title: "Linking Islands of Data second Symposium"
 author: Daniel Pett
 date: 2020-03-05
 permalink: /events/workshop-st-johns
