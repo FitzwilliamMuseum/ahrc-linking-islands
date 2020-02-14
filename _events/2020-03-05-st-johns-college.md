@@ -57,4 +57,4 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 14. David Saunders (The Getty)
 15. Andrew Shapland (Oxford University)
 16. Jeremey Ottevanger (Sesamoid Consulting)
-17. Andrew Meadows (Oxford University)
+17. Andrew Meadows (Oxford University/ ANS/ Nomisma)
