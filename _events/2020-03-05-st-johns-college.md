@@ -37,7 +37,7 @@ Project and the Ancient Worlds Now initiative) TBC
 
 ### To book a place
 
-Details forthcoming
+Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk) 
 
 ### Who is coming?
 
