@@ -37,7 +37,7 @@ Project and the Ancient Worlds Now initiative) TBC
 
 ### To book a place
 
-Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk) 
+Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk)
 
 ### Who is coming?
 
@@ -54,3 +54,4 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 11. Kristi Bain (UCAM)
 12. Marjolein Heemskerk (UCAM Archaeology MPhil
 13. Alice-Lynn McMichael (Michigan State University)
+14. David Saunders (The Getty)
