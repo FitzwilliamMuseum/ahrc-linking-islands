@@ -56,4 +56,5 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 13. Alice-Lynn McMichael (Michigan State University)
 14. David Saunders (The Getty)
 15. Andrew Shapland (Oxford University)
-16. Jeremey Ottevanger 
+16. Jeremey Ottevanger (Sesamoid Consulting)
+17. Andrew Meadows (Oxford University)
