@@ -41,13 +41,16 @@ Details forthcoming
 
 ### Who is coming?
 
-1. Daniel Pett (Project PI)
-2. Elton Barker (Project Co-I)
-3. Anastasia Christophilopoulou (Project curator)
+1. Daniel Pett (Project PI - UCAM)
+2. Elton Barker (Project Co-I - Open University)
+3. Anastasia Christophilopoulou (Project curator - UCAM)
 4. Valeria Vitale
-5. Jennifer Wexler
-6. Hannah Platts
-7. Amara Thornton
+5. Jennifer Wexler (The British Museum)
+6. Hannah Platts (Royal Holloway)
+7. Amara Thornton (Reading University)
 8. Ava Clark (Palestine Exploration Fund)
 9. Eric Poehler (UMASS)
 10. Megan Perry (ECU)
+11. Kristi Bain (UCAM)
+12. Marjolein Heemskerk (UCAM Archaeology MPhil
+13. Alice-Lynn McMichael (Michigan State University)
