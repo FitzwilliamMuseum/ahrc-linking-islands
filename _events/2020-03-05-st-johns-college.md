@@ -59,5 +59,5 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 16. Jeremy Ottevanger (Sesamoid Consulting)
 17. Andrew Meadows (Oxford University/ ANS/ Nomisma)
 18. Ryan Baumann (Duke University)
-19. David Gill (Suffolk University)
+19. David Gill (University of East Anglia)
 20. Sara Perry (Museum of London Archaeology)
