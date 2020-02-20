@@ -61,3 +61,6 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 18. Ryan Baumann (Duke University)
 19. David Gill (University of East Anglia)
 20. Sara Perry (Museum of London Archaeology)
+21. Adi Popsecu (Fitzwilliam Museum)
+22. Megan Gooch (Bodleian Library, Oxford University)
+23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
