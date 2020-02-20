@@ -66,3 +66,4 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
 24. Victoria Donnellan (The British Museum)
 25. Thomas Kiely (The British Museum)
+26. Susanne Turner (Museum of Classical Archaeology)
