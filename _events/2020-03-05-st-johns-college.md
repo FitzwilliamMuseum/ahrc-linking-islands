@@ -64,3 +64,5 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 21. Adi Popsecu (Fitzwilliam Museum)
 22. Megan Gooch (Bodleian Library, Oxford University)
 23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
+24. Victoria Donnellan (The British Museum)
+25. Thomas Kiely (The British Museum)
