@@ -44,7 +44,7 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 1. Daniel Pett (Project PI - UCAM)
 2. Elton Barker (Project Co-I - Open University)
 3. Anastasia Christophilopoulou (Project curator - UCAM)
-4. Valeria Vitale
+4. Valeria Vitale (Institute of Classical Studies)
 5. Jennifer Wexler (The British Museum)
 6. Hannah Platts (Royal Holloway)
 7. Amara Thornton (Reading University)
