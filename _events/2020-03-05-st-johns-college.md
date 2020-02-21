@@ -44,7 +44,7 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 5th March: 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.
 6th March: 10am - 4pm at the Fitzwilliam Museum. This will be workshop style.
 
-Full details to follow.
+Full details to follow. If you can only attend for some of the time, that is absolutely fine!
 
 ### Who is coming?
 
