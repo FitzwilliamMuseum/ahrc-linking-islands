@@ -67,3 +67,6 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 24. Victoria Donnellan (The British Museum)
 25. Thomas Kiely (The British Museum)
 26. Susanne Turner (Museum of Classical Archaeology)
+27. Ronald Haynes (Cambridge University)
+28. Ryoko Matsuba (UEA SISJAC)
+29. Keith May (Historic England)
