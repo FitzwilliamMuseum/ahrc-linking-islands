@@ -39,6 +39,13 @@ Project and the Ancient Worlds Now initiative) TBC
 
 Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk)
 
+### Tentative schedule
+
+5th March: 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.
+6th March: 10am - 4pm at the Fitzwilliam Museum. This will be workshop style.
+
+Full details to follow.
+
 ### Who is coming?
 
 1. Daniel Pett (Project PI - UCAM)
