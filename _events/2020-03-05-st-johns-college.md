@@ -91,3 +91,4 @@ Full details to follow. If you can only attend for some of the time, that is abs
 41. Lora Angelova (The National Archives)
 42. Tao Tao Chang (AHRC)
 43. Sarah Middle (Open University)
+44. Muriel Swijghuisen Reigersberg (Open University)
