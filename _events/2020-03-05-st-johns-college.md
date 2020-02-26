@@ -92,3 +92,6 @@ Full details to follow. If you can only attend for some of the time, that is abs
 42. Tao Tao Chang (AHRC)
 43. Sarah Middle (Open University)
 44. Muriel Swijghuisen Reigersberg (Open University)
+45. Enrico Saga (Open University)
+46. Paul Mulholland (Open University)
+47. Tom Flynn (Sketchfab)
