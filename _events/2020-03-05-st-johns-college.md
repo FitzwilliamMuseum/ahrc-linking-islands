@@ -42,7 +42,25 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 ### Tentative schedule
 
 *5th March:* 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.  
+
+#### Day 1 Schedule tentative
+
+Times are not finalised and papers will probably be 10 mins
+
+* 10:00 am - Welcome by Daniel Pett and Elton Barker and over view of day
+* 10:15 am - Anastasia Christophilopoulou "Being an Islander overview"
+* 10:45 am - 11:15 am - Megan Perry (ECU)
+* 11:20 - 11:50 am - Eric Poehler (UMASS)
+* 11:55am - 12:25pm: Alice Lynn McMichael (MSU)
+* 12:30 - 13:00: Ryan Baumann (Duke)
+* 13:00 - 13:30 - lunch
+* 13:30 - Jennifer Wexler, Travelling Islanders
+
 *6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
+
+#### Day 2 Schedule tentative
+
+* 10:00 am - Welcome by Daniel Pett and Elton Barker and over view of day
 
 <script src="https://gist.github.com/portableant/a112cf3a176ee0fa7faeecf75517bc45.js"></script>
 
@@ -97,3 +115,6 @@ Full details to follow. If you can only attend for some of the time, that is abs
 45. Enrico Saga (Open University)
 46. Paul Mulholland (Open University)
 47. Tom Flynn (Sketchfab)
+48. Courtney Nimura (Oxford University)
+49. Chris Green (Oxford University)
+50. Eleonora Gandolfi (Southampton University)
