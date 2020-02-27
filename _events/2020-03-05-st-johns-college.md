@@ -44,6 +44,8 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 *5th March:* 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.  
 *6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
 
+<script src="https://gist.github.com/portableant/a112cf3a176ee0fa7faeecf75517bc45.js"></script>
+
 Full details to follow. If you can only attend for some of the time, that is absolutely fine!
 
 ### Who is coming?
