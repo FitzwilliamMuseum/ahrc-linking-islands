@@ -42,7 +42,7 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 ### Tentative schedule
 
 *5th March:* 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.  
-*6th March:* 10am - 4pm at the Fitzwilliam Museum. This will be workshop style.
+*6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
 
 Full details to follow. If you can only attend for some of the time, that is absolutely fine!
 
@@ -67,7 +67,7 @@ Full details to follow. If you can only attend for some of the time, that is abs
 17. Andrew Meadows (Oxford University/ ANS/ Nomisma)
 18. Ryan Baumann (Duke University)
 19. David Gill (University of East Anglia)
-20. Sara Perry (Museum of London Archaeology)
+20. ~~Sara Perry (Museum of London Archaeology)~~
 21. Adi Popsecu (Fitzwilliam Museum)
 22. Megan Gooch (Bodleian Library, Oxford University)
 23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
