@@ -51,8 +51,9 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 * 10:00 am: Daniel Pett "Welcome"
 * 10:15 am: Elton Barker "A vision for the day"
 * 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
-* 10:45 am - 11:15 am: Megan Perry (ECU)
-* 11:20 - 11:50 am: Eric Poehler (UMASS) "Pompeii Artistic Landscape Project"
+* 10:45 am - 11:05 am: Megan Perry (ECU)
+* 11:05am - 11:25 am: Eric Poehler (UMASS) "Pompeii Artistic Landscape Project"
+* 11:25am - 11:50 am: Enrico Daga/ Paul Mulholland (Open University) "SPICE: Social cohesion, Participation, and Inclusion through Cultural Engagement"
 * 11:55am - 12:25pm: Alice Lynn McMichael (MSU) "Byzantine Cappadocia/ MSU DH"
 * 12:30 - 13:00: Lunch
 * 13:00 - 13:30: Ryan Baumann (Duke)
@@ -137,3 +138,5 @@ Full details to follow. If you can only attend for some of the time, that is abs
 48. Courtney Nimura (Oxford University)
 49. Chris Green (Oxford University)
 50. Eleonora Gandolfi (Southampton University)
+51. France Madden (British Library)
+52. Suzanne Paul (Cambridge University Library)
