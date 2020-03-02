@@ -45,6 +45,9 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 
 #### Day 1 Schedule tentative
 
+[Open hangout link](https://meet.google.com/tnt-pnpn-dpj)
+
+
 * 10:00 am: Daniel Pett "Welcome"
 * 10:15 am: Elton Barker "A vision for the day"
 * 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
@@ -65,6 +68,8 @@ CLOSE: Socialising in local public house for those that want to.
 *6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
 
 #### Day 2 Schedule tentative
+
+[Open hangout link](https://meet.google.com/pnt-qnts-udg)
 
 * 10:00 am - Welcome by Daniel Pett and Elton Barker and over view of day
 * 10:30 am - 12:00: First practical session
