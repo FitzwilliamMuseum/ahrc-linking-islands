@@ -49,14 +49,14 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 * 10:15 am: Elton Barker "A vision for the day"
 * 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
 * 10:45 am - 11:15 am: Megan Perry (ECU)
-* 11:20 - 11:50 am: Eric Poehler (UMASS)
-* 11:55am - 12:25pm: Alice Lynn McMichael (MSU)
+* 11:20 - 11:50 am: Eric Poehler (UMASS) "Pompeii Artistic Landscape Project"
+* 11:55am - 12:25pm: Alice Lynn McMichael (MSU) "Byzantine Cappadocia/ MSU DH"
 * 12:30 - 13:00: Lunch
 * 13:00 - 13:30: Ryan Baumann (Duke)
 * 13:30 - 13:50: Jennifer Wexler (The British Museum) "Travelling Islanders"
 * 14:00 - 14:30: David Saunders (Getty) "Digital projects at the Getty: Antiquities Provenance Research, the Online CVA and Ancient Worlds Now."
 * 14:30 - 14:45: Andrew Shapland (The Ashmolean) "Digitising the Evans Archive at the Ashmolean Museum"
-* 14:45 - 15:00: Valeria Vitale (SAS) "Pelagios"
+* 14:45 - 15:00: Valeria Vitale (SAS) "Recogito for crowdsourcing annotation: the example of the Wood Archive"
 * 15:00 - 15:20: Break
 * 15:20 - 16:00: Discussion
 
