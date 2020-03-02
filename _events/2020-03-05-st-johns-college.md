@@ -45,21 +45,22 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 
 #### Day 1 Schedule tentative
 
-Times are not finalised and papers will probably be 10 mins
-
-* 10:00 am: Welcome by Daniel Pett and Elton Barker and over view of day
-* 10:15 am - 10:40 am: Anastasia Christophilopoulou "Being an Islander overview"
+* 10:00 am: Daniel Pett "Welcome"
+* 10:15 am: Elton Barker "A vision for the day"
+* 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
 * 10:45 am - 11:15 am: Megan Perry (ECU)
 * 11:20 - 11:50 am: Eric Poehler (UMASS)
 * 11:55am - 12:25pm: Alice Lynn McMichael (MSU)
-* 12:30 - 13:00: Ryan Baumann (Duke)
-* 13:00 - 13:30: lunch
-* 13:30 - 13:50: Jennifer Wexler (The British Museum), Travelling Islanders
-* 14:00 - 14:30: David Saunders (Getty)
-* 14:30 - 15:00: Break
-* 15:00 - 16:00: Discussion
+* 12:30 - 13:00: Lunch
+* 13:00 - 13:30: Ryan Baumann (Duke)
+* 13:30 - 13:50: Jennifer Wexler (The British Museum) "Travelling Islanders"
+* 14:00 - 14:30: David Saunders (Getty) "Digital projects at the Getty: Antiquities Provenance Research, the Online CVA and Ancient Worlds Now."
+* 14:30 - 14:45: Andrew Shapland (The Ashmolean) "Digitising the Evans Archive at the Ashmolean Museum"
+* 14:45 - 15:00: Valeria Vitale (SAS) "Pelagios"
+* 15:00 - 15:20: Break
+* 15:20 - 16:00: Discussion
 
-Do people want to volunteer lightning talks?
+CLOSE: Socialising in local public house for those that want to.
 
 *6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
 
@@ -68,9 +69,12 @@ Do people want to volunteer lightning talks?
 * 10:00 am - Welcome by Daniel Pett and Elton Barker and over view of day
 * 10:30 am - 12:00: First practical session
 * 12:00 - 12:30: Lunch
-* 13:00 - 14:00: Second practical session
+* 13:00 - 13:30: Tao Tao Chang (AHRC): Infrastructure
 * 14:00 - 15:00: Third practical session
-* 15:00 - 16:00: Discussion on future funding, network etc
+* 15:00 - 15:30: Break
+* 15:30 - 16:00: Discussion on future funding, network etc
+
+CLOSE: Socialising in local public house for those that want to.
 
 <script src="https://gist.github.com/portableant/a112cf3a176ee0fa7faeecf75517bc45.js"></script>
 
