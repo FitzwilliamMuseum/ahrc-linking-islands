@@ -11,6 +11,8 @@ The Second Linking Islands of Data Symposium, 5-6 MARCH 2020
 
 St John's College & The Fitzwilliam Museum, Cambridge
 
+**HASHTAG: linkedislands**
+
 Following an initial workshop in October 2019, which brought together representatives
 of Classical World projects that work with Linked Open Data and other methodologies
 (3D imaging, visualisations, mapping), we are pleased to announce a two-day long
