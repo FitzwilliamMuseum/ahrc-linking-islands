@@ -44,7 +44,10 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 
 *5th March:* 10am - 4pm at St John's College. More formal presentations from our American guests and some of the UK participants.  
 
-#### Day 1 Schedule tentative
+#### Day 1 Schedule
+
+
+You will find us in the Castlereagh Room. Please do not worry if you are late, or have to leave at any time.
 
 [Open hangout link](https://meet.google.com/tnt-pnpn-dpj)
 
@@ -70,6 +73,8 @@ CLOSE: Socialising in local public house for those that want to.
 *6th March:* 10am - 4pm at St Edmund's College. This will be workshop style.
 
 #### Day 2 Schedule tentative
+
+You will find us in the Garden room. 
 
 [Open hangout link](https://meet.google.com/pnt-qnts-udg)
 
