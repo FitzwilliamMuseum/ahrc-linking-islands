@@ -52,7 +52,7 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 * 10:00 am: Daniel Pett "Welcome"
 * 10:15 am: Elton Barker "A vision for the day"
 * 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
-* 10:45 am - 11:05 am: Megan Perry (ECU)
+* 10:45 am - 11:05 am: Megan Perry (ECU) "Digging a Big Hole, or: How I learned to stop worrying and love complex archaeological data"
 * 11:05am - 11:25 am: Eric Poehler (UMASS) "Pompeii Artistic Landscape Project"
 * 11:25am - 11:50 am: Enrico Daga/ Paul Mulholland (Open University) "SPICE: Social cohesion, Participation, and Inclusion through Cultural Engagement"
 * 11:55am - 12:25pm: Alice Lynn McMichael (MSU) "Byzantine Cappadocia/ MSU DH"
