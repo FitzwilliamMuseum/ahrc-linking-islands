@@ -75,7 +75,7 @@ CLOSE: Socialising in local public house for those that want to.
 [Open hangout link](https://meet.google.com/pnt-qnts-udg)
 
 * 10:00 am - Welcome by Daniel Pett and Elton Barker and over view of day
-* 10:30 am - 12:00: First practical session
+* 10:30 am - 12:00: First practical session and Tom Flynn (Sketchfab) "CC0 and Sketchfab"
 * 12:00 - 12:30: Lunch
 * 13:00 - 13:30: Tao Tao Chang (AHRC): Infrastructure
 * 14:00 - 15:00: Third practical session
