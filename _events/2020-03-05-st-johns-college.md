@@ -75,10 +75,10 @@ CLOSE: Socialising in local public house for those that want to.
 
 * 10:00 am: welcome by Daniel Pett and Elton Barker and over view of day
 * 10:30 am - 11:00 am: Andy Meadows (Oxford University and Nomisma) "Nomisma, Numismatics and LOD"
-* 11:00 am - 12:30: First practical session and Tom Flynn (Sketchfab) "CC0 and Sketchfab"
+* 11:00 am - 12:30: Practical session and Tom Flynn (Sketchfab) "CC0 and Sketchfab"
 * 12:30 - 13:00 Lunch
 * 13:00 - 13:30: Tao Tao Chang (AHRC): Infrastructure
-* 14:00 - 15:00: Third practical session
+* 14:00 - 15:00: Practical session
 * 15:00 - 15:30: Break
 * 15:30 - 16:00: Discussion on future funding, network etc
 
