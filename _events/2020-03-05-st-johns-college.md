@@ -58,7 +58,7 @@ Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac
 * 11:25am - 11:50 am: Enrico Daga/ Paul Mulholland (Open University) "SPICE: Social cohesion, Participation, and Inclusion through Cultural Engagement"
 * 11:55am - 12:25pm: Alice Lynn McMichael (MSU) "Byzantine Cappadocia/ MSU DH"
 * 12:30 - 13:00: Lunch
-* 13:00 - 13:30: Ryan Baumann (Duke)
+* 13:00 - 13:30: Ryan Baumann (Duke) "Linked Open Data & 3D Models on the Web"
 * 13:30 - 13:50: Jennifer Wexler (The British Museum) "Travelling Islanders"
 * 14:00 - 14:30: David Saunders (Getty) "Digital projects at the Getty: Antiquities Provenance Research, the Online CVA and Ancient Worlds Now."
 * 14:30 - 14:45: Andrew Shapland (The Ashmolean) "Digitising the Evans Archive at the Ashmolean Museum"
