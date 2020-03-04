@@ -122,7 +122,7 @@ Full details to follow. If you can only attend for some of the time, that is abs
 22. Megan Gooch (Bodleian Library, Oxford University)
 23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
 24. Victoria Donnellan (The British Museum)
-25. ~~Thomas Kiely (The British Museum)
+25. ~~Thomas Kiely (The British Museum)~~
 26. Susanne Turner (University of Cambridge, Museum of Classical Archaeology)
 27. Ronald Haynes (Cambridge University)
 28. Ryoko Matsuba (UEA SISJAC)
