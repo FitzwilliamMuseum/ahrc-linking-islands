@@ -152,5 +152,6 @@ Full details to follow. If you can only attend for some of the time, that is abs
 52. Suzanne Paul (Cambridge University Library)
 53. Cody Kingham (Cambridge University) 
 54. Carol Atack (Cambridge University)
+55. Abi Glen (Cambridge University)
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=linkedislands&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #linkedislands</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
