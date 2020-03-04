@@ -90,7 +90,10 @@ You will find us in the Garden room.
 * 15:00 - 15:30: Break
 * 15:30 - 16:00: Discussion on future funding, network etc
 
-CLOSE: Socialising in local public house for those that want to. We suggest the Punter (3 Pound Hill, Cambridge CB3 0AE)
+CLOSE: 
+
+* Option 1: Socialising in local public house for those that want to. We suggest the Punter (3 Pound Hill, Cambridge CB3 0AE)
+* Option 2: Kathryn Piquette (UCL) “Consuming Early Writing in Ancient Egypt and Mesopotamia: A phenomenological approach” CREWS seminar 4.15pm for tea, paper at 4.30pm, room 1.04, Faculty of Classics
 
 <script src="https://gist.github.com/portableant/a112cf3a176ee0fa7faeecf75517bc45.js"></script>
 
