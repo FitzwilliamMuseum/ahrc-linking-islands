@@ -52,9 +52,10 @@ You will find us in the Castlereagh Room. Please do not worry if you are late, o
 [Open hangout link](https://meet.google.com/tnt-pnpn-dpj)
 
 
-* 10:00 am: Daniel Pett "Welcome"
-* 10:15 am: Elton Barker "A vision for the day"
-* 10:30 am - 10:45 am: Anastasia Christophilopoulou "Being an Islander overview"
+* 10:00 am -10:05 am: Daniel Pett (Cambridge University - The Fitz) "Welcome"
+* 10:05 am - 10:15am: Elton Barker (Open University) "A vision for the day"
+* 10:15 am - 10:30 am: Anastasia Christophilopoulou (Cambridge University - The Fitz) "Being an Islander overview"
+* 10:30 am - 10:40 am: Susanne Turner (Cambridge University - Museum of Classical Archaeology) "The problem we have"
 * 10:45 am - 11:05 am: Megan Perry (ECU) "Digging a Big Hole, or: How I learned to stop worrying and love complex archaeological data"
 * 11:05am - 11:25 am: Eric Poehler (UMASS) "Pompeii Artistic Landscape Project"
 * 11:25am - 11:50 am: Enrico Daga/ Paul Mulholland (Open University) "SPICE: Social cohesion, Participation, and Inclusion through Cultural Engagement"
@@ -83,7 +84,7 @@ You will find us in the Garden room.
 * 11:00 am - 11:15: Tom Flynn (Sketchfab) "CC0 and Sketchfab" via hangout 
 * 11:15 - 12:30: Practical session
 * 12:30 - 13:00 Lunch
-* 13:00 - 13:30: Tao Tao Chang (AHRC): Infrastructure
+* 13:00 - 13:30: Tao Tao Chang (AHRC): Infrastructure via hangout
 * 14:00 - 15:00: Practical session
 * 15:00 - 15:30: Break
 * 15:30 - 16:00: Discussion on future funding, network etc
