@@ -38,7 +38,8 @@ Project and the Ancient Worlds Now initiative)
 
 ### To book a place
 
-Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk)
+~~Email [Daniel Pett and Elton Barker](mailto:dejp3@cam.ac.uk,elton.barker@open.ac.uk)~~
+We are now at capacity. Please do join us on the hangout link. 
 
 ### Tentative schedule
 
