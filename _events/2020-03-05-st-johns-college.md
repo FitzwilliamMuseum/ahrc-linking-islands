@@ -148,7 +148,7 @@ Full details to follow. If you can only attend for some of the time, that is abs
 48. Courtney Nimura (Oxford University)
 49. Chris Green (Oxford University)
 50. Eleonora Gandolfi (Southampton University)
-51. France Madden (British Library)
+51. Frances Madden (British Library)
 52. Suzanne Paul (Cambridge University Library)
 53. Cody Kingham (Cambridge University) 
 54. Carol Atack (Cambridge University)
