@@ -97,9 +97,9 @@ Full details to follow. If you can only attend for some of the time, that is abs
 
 ### Who is coming?
 
-1. Daniel Pett (Project PI - UCAM)
+1. Daniel Pett (Project PI - University of Cambridge)
 2. Elton Barker (Project Co-I - Open University)
-3. Anastasia Christophilopoulou (Project curator - UCAM)
+3. Anastasia Christophilopoulou (Project curator - University of Cambridge)
 4. Valeria Vitale (Institute of Classical Studies)
 5. Jennifer Wexler (The British Museum)
 6. Hannah Platts (Royal Holloway)
@@ -107,8 +107,8 @@ Full details to follow. If you can only attend for some of the time, that is abs
 8. Ava Clark (Palestine Exploration Fund)
 9. Eric Poehler (UMASS)
 10. Megan Perry (ECU)
-11. Kristi Bain (UCAM)
-12. Marjolein Heemskerk (UCAM Archaeology MPhil)
+11. Kristi Bain (University of Cambridge)
+12. Marjolein Heemskerk (University of Cambridge Archaeology MPhil)
 13. Alice-Lynn McMichael (Michigan State University)
 14. David Saunders (The Getty)
 15. Andrew Shapland (Oxford University)
@@ -122,7 +122,7 @@ Full details to follow. If you can only attend for some of the time, that is abs
 23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
 24. Victoria Donnellan (The British Museum)
 25. Thomas Kiely (The British Museum)
-26. Susanne Turner (Museum of Classical Archaeology)
+26. Susanne Turner (University of Cambridge, Museum of Classical Archaeology)
 27. Ronald Haynes (Cambridge University)
 28. Ryoko Matsuba (UEA SISJAC)
 29. Keith May (Historic England)
