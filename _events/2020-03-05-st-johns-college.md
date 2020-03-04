@@ -89,7 +89,7 @@ You will find us in the Garden room.
 * 15:00 - 15:30: Break
 * 15:30 - 16:00: Discussion on future funding, network etc
 
-CLOSE: Socialising in local public house for those that want to.
+CLOSE: Socialising in local public house for those that want to. We suggest the Punter (3 Pound Hill, Cambridge CB3 0AE)
 
 <script src="https://gist.github.com/portableant/a112cf3a176ee0fa7faeecf75517bc45.js"></script>
 
