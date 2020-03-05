@@ -136,9 +136,9 @@ Full details to follow. If you can only attend for some of the time, that is abs
 33. Rosie Forrest (University of Cambridge)
 34. Chiara Bonacchi (University of Stirling)
 35. George Doji (University of Cambridge)
-36. Steve Handley (University of Cambridge)
-37. Philippa Walton (University of Reading)
-38. Erica Emond (University of Cambridge)
+36. ~~Steve Handley (University of Cambridge)~~
+37. ~~Philippa Walton (University of Reading)~~
+38. ~~Erica Emond (University of Cambridge)~~
 39. Joanne Vine (University of Cambridge)
 40. Caroline Barron (Birkbeck University)
 41. Lora Angelova (The National Archives)
