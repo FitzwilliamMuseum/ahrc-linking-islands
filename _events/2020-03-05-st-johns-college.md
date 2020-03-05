@@ -9,7 +9,9 @@ permalink: /events/workshop-st-johns
 
 The Second Linking Islands of Data Symposium, 5-6 MARCH 2020
 
-St John's College & The Fitzwilliam Museum, Cambridge
+St John's College & St Edmund's College
+
+Organised by The Fitzwilliam Museum, Cambridge and the Open University
 
 **HASHTAG: linkedislands**
 
