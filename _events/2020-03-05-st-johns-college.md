@@ -157,4 +157,6 @@ Full details to follow. If you can only attend for some of the time, that is abs
 54. Carol Atack (Cambridge University)
 55. Abi Glen (Cambridge University)
 
+[Your views - survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_0ALj2GhDp3k1UXz)
+
 <a href="https://twitter.com/intent/tweet?button_hashtag=linkedislands&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #linkedislands</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
