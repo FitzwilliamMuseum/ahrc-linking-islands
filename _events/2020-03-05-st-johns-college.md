@@ -113,7 +113,7 @@ Full details to follow. If you can only attend for some of the time, that is abs
 8. Ava Clark (Palestine Exploration Fund)
 9. [Eric Poehler](https://www.umass.edu/classics/member/eric-poehler) (University of Massachusetts, Amherst)
 10. [Megan Perry](https://anthropology.ecu.edu/megan-perry/) (East Carolina University)
-11. Kristi Bain (University of Cambridge)
+11. ~~Kristi Bain (University of Cambridge)~~
 12. Marjolein Heemskerk (University of Cambridge Archaeology MPhil)
 13. [Alice-Lynn McMichael](http://digitalhumanities.msu.edu/people/alice-lynn-mcmichael/) (Michigan State University)
 14. [David Saunders](https://blogs.getty.edu/iris/author/dsaunders/) (The Getty)
@@ -123,16 +123,16 @@ Full details to follow. If you can only attend for some of the time, that is abs
 18. [Ryan Baumann](https://library.duke.edu/about/directory/staff/ryan.baumann) (Duke University)
 19. David Gill (University of East Anglia)
 20. ~~Sara Perry (Museum of London Archaeology)~~
-21. Adi Popsecu (Fitzwilliam Museum)
+21. ~~Adi Popsecu (Fitzwilliam Museum)~~
 22. Megan Gooch (Bodleian Library, Oxford University)
-23. Terhi Nurmikko-Fuller (ANU - Hangout participant)
+23. ~~Terhi Nurmikko-Fuller (ANU - Hangout participant)~~
 24. Victoria Donnellan (The British Museum)
 25. ~~Thomas Kiely (The British Museum)~~
 26. Susanne Turner (University of Cambridge, Museum of Classical Archaeology)
 27. Ronald Haynes (Cambridge University)
 28. Ryoko Matsuba (UEA SISJAC)
 29. Keith May (Historic England)
-30. Alexandra Villing (The British Museum)
+30. ~~Alexandra Villing (The British Museum)~~
 31. Graeme Earl (King's College London)
 32. Holly Wright (University of York, Archaeology Data Service)
 33. Rosie Forrest (University of Cambridge)
@@ -154,10 +154,12 @@ Full details to follow. If you can only attend for some of the time, that is abs
 49. Chris Green (Oxford University)
 50. Eleonora Gandolfi (Southampton University)
 51. Frances Madden (British Library)
-52. Suzanne Paul (Cambridge University Library)
+52. ~~Suzanne Paul (Cambridge University Library)~~
 53. Cody Kingham (Cambridge University) 
 54. Carol Atack (Cambridge University)
 55. Abi Glen (Cambridge University)
+56. Matthew Rossi (Michigan State University)
+57. Steve Colmer (Soluis Heritage)
 
 [Your views - survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_0ALj2GhDp3k1UXz)
 
