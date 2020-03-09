@@ -144,12 +144,12 @@ Full details to follow. If you can only attend for some of the time, that is abs
 39. Joanne Vine (University of Cambridge)
 40. Caroline Barron (Birkbeck University)
 41. Lora Angelova (The National Archives)
-42. Tao Tao Chang (AHRC)
+42. ~~Tao Tao Chang (AHRC)~~
 43. Sarah Middle (Open University)
 44. Muriel Swijghuisen Reigersberg (Open University)
 45. Enrico Saga (Open University)
 46. Paul Mulholland (Open University)
-47. Tom Flynn (Sketchfab)
+47. ~~Tom Flynn (Sketchfab)~~
 48. Courtney Nimura (Oxford University)
 49. Chris Green (Oxford University)
 50. Eleonora Gandolfi (Southampton University)
@@ -160,6 +160,16 @@ Full details to follow. If you can only attend for some of the time, that is abs
 55. Abi Glen (Cambridge University)
 56. Matthew Rossi (Michigan State University)
 57. Steve Colmer (Soluis Heritage)
+
+### Hangout participants
+
+1. Gethin Rees (British Library)
+2. Amy Smith (Reading University)
+3. Tao Tao Chang (AHRC/UKRI)
+4. Jacquelyn Clements (National Endowment for the Humanities)
+5. Chiara Capulli (University of Florence)
+6. Donal Cooper (University of Cambridge)
+7. Tom Flynn (Sketchfab)
 
 [Your views - survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_0ALj2GhDp3k1UXz)
 
