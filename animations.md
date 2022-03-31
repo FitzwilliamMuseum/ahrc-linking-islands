@@ -14,7 +14,7 @@ These two short animations explain some background to Linked Open Data.
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0m79yDb4AzE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-An AHRC funded animation for the Linking Islands of Data Project, led by Professor Daniel Pett and Professor Elton Barker 
+A pair of AHRC funded animations for the Linking Islands of Data Project, led by Professor Daniel Pett and Professor Elton Barker 
 (Open University) with the Pelagios Community, Getty Museum, Institute for the Study of the Ancient World, 
 American Numismatics Society, Brown University, School of Advanced Study University of London. 
 
