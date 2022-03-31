@@ -6,11 +6,11 @@ title: Linked Data Animations
 
 These two short animations explain some background to Linked Open Data.
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9 my-2">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mMR6JQ1M6qE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9 my-2">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0m79yDb4AzE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
