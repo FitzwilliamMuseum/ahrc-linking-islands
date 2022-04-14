@@ -13,7 +13,7 @@ Fitzwilliam Museum and the Open University.
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/ahrc-linking-islands.git ahrc-creative-economy-fellows`
+   `git clone https://github.com/FitzwilliamMuseum/ahrc-linking-islands.git`
 * Change to the directory and then run this command in terminal `jekyll serve`
 
 ## Credits
