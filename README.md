@@ -1,5 +1,8 @@
 # Linking islands of data  - Fitzwilliam Museum
 
+[![DOI](https://zenodo.org/badge/170138281.svg)](https://zenodo.org/badge/latestdoi/170138281) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+
+
 ![A screenshot of the site](images/screenshots/screenshot.png)
 
 This repository will hold code for the AHRC UK/USA network grant led by the
