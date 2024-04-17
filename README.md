@@ -5,8 +5,8 @@
 
 ![A screenshot of the site](images/screenshots/screenshot.png)
 
-This repository will hold code for the AHRC UK/USA network grant led by the
-Fitzwilliam Museum and the Open University.
+This repository will hold code for the AHRC UK/USA network grant led by Daniel Pett and Elton Barker
+(Fitzwilliam Museum and the Open University).
 
 ## To run locally
 
@@ -26,12 +26,11 @@ CSS framework: http://daemonite.github.io/material/
 
 ## License
 
-CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated
-otherwise.
+GPLV3 for code.
+CC-BY for  content (text and images) unless stated  otherwise.
 
 ## Contributing guidelines
 
 If you want to contribute fixes to this site, you are very welcome to do so. To
-do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/ahrc-linking-islands/issues)
-or fork the repository and create a new branch for proposed fixes and then submit
+do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/ahrc-linking-islands/issues) or fork the repository and create a new branch for proposed fixes and then submit
 a pull request.
