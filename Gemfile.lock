@@ -16,6 +16,7 @@ GEM
     base64 (0.2.0)
     bigdecimal (3.1.8)
     colorator (1.1.0)
+    commonmarker (0.23.10)
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     drb (2.2.1)
@@ -71,10 +72,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     minitest (5.23.0)
     mutex_m (0.2.0)
     nokogiri (1.16.5-x86_64-darwin)
@@ -100,6 +97,7 @@ GEM
     strscan (3.1.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-19
@@ -108,6 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  commonmarker
   jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-mentions
@@ -116,9 +115,9 @@ DEPENDENCIES
   jemoji
   kramdown (>= 2.3.0)
   kramdown-parser-gfm
-  minima (~> 2.0)
   nokogiri
   tzinfo-data
+  webrick
 
 BUNDLED WITH
    2.4.22
